@@ -32,5 +32,4 @@ def missing_number(n, arr):
 arr = [1, 2, 3, 5]
 n = 5
 print(missing_number(n, arr))
- 
-    
+
