@@ -15,6 +15,6 @@ size=5
 count=1
 for i in range(size):
     for j in range(i+1):
-        print(count,end=" ")
+        print(size-i,end=" ")
     print()
     count+=1
